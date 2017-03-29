@@ -8,7 +8,7 @@ import org.openqa.selenium.Keys;
 
 class AutoITUploadFiles{
     public void run(def params){
-        Runtime.getRuntime().exec(params."Path");
+        Runtime.getRuntime().exec(params.Path);
     }
 }
 
