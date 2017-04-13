@@ -9,6 +9,6 @@ class VerifyText{
   public void run(def params){
     WebElement element = Elements.find(params,Browser.Driver)
     
-    assert element.getText() == params.Text, "Error expected text: ${params.Text} does not match text on the UI: ${element.getText()}"
+    assert element.getText().equals(params.Text), "Error expected text: ${params.Text} does not match text on the UI: ${element.getText()}"
   }
 }

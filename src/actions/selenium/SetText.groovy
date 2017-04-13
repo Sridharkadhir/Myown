@@ -9,8 +9,8 @@ class SetText{
   
   public static void run(def params){
     WebElement element = Elements.find(params,Browser.Driver)
-    
-    element.clear()
+      
+        element.clear()
     element.sendKeys(params."Text")    
     
     
