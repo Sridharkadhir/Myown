@@ -11,7 +11,7 @@ class AutoITUploadFiles{
     {
         Runtime.getRuntime().exec(params.Path);
         
-        // Path should be of the .exe file that you want to upload ( through which the targetter file will get uploaded)
+        // Path should be of the .exe file that you want to upload ( through which the targetted file will get uploaded )
     }
 }
 
