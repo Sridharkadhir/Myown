@@ -15,13 +15,7 @@ class DropDownSelectedText{
       String selectedValue = new Select(element).getFirstSelectedOption().getText();
       
       assert selectedValue.equals(params.Text), "Error expected text: ${params.Text} does not match text on the UI: ${selectedValue}"
-      
-      
-      
-      
-      
-      
-      
+     
       return selectedValue;
     
     	//new Select(element).selectByVisibleText(params."Visible Text")  
