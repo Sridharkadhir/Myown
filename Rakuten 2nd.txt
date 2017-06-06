@@ -1,4 +1,4 @@
-Could we have your name and the reason why you are interested in Rakuten?
+1. Could we have your name and the reason why you are interested in Rakuten?
 
 My Name is Sridhar S
 
@@ -8,8 +8,36 @@ The reasons are.
 
 
 Rakuten is the fastest growing electronic ecommerce company and internet company . Ecommerce is the domain in which i want to be the specialist.
-Rakuten Ichiba is the largest e-commerce site in Japan and among the world�s largest by sales.
+Rakuten Ichiba is the largest e-commerce site in Japan and among the world’s largest by sales.
 Rakuten gives many chances and challenges to the person like me. I have been really impressed after seeing a video of Rakuten Vision 2020 
 
+2. Please tell us your technical background and how you will be able to contribute to the success of the company.
+ 
+ I 
+ 
+ My previous work experience included innovation in many areas, including learning new open source tools . At my previous company, I have intorudced few open source frameworks and tools which helped us in saving lots of time, cost. improving teamwork and communication among members of team projects. I can bring not only my ideas from my previous job, but my general passion for innovation, to your organization.
 
-Please tell us your technical background and how you will be able to contribute to the success of the company
+
+
+3. Please tell us your technical background and how you will be able to contribute to the success of the company
+
+My greatest strength is my ability to work effectively with many different people. My strong communication skills have made me an effective software tester on dozens of projects over the past six years. Because this job involves a lot of team , I know that my communication and interpersonal skills make me an ideal fit for the position.
+
+In my last project , i had worked with the people from Pakistan , Israel , egypt and US. I was involved in different testings such as  manual , mobile application and automation testing. Whereas I had to  work with the dev from Pakistan regarding mobile application testing , dev team from US , egyot and Israel on the Manual testing and automation testing. 
+
+
+4. Have you ever changed your job? or are you trying to change your job?Please tell us why.
+
+I really enjoy what I'm doing, but I feel I'm following a routine. I looked around for more opportunities to grow, but because the company is small and does not has projects, I'm very limited. I want to work in an environment that will help me realize my full potential and a place I can contribute everything I'm capable of doing. My current job doesn't provide these things for me and that's why I want to work here. I know ABC Company has a lot of opportunities for growth and encourages employees to take on challenging projects to learn more. That is what I'm looking for."
+
+
+4.What are your career goal and career plans?
+　　How does this job fit into your career plans?
+  
+  Unitl age 2020 ( 33 ) 
+I would like to develop power on different testing types such as security performance 
+Unitl age 2025
+I would like to be a Test architect.
+
+
+engineer recrutiing video
